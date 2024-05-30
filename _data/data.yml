@@ -1,6 +1,6 @@
 basic:
   name: Tong Liang                      # name
-  title: Ph.D. student           # job title
+  title: Ph.D. Candidate           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/Profile-center.jpg # avatar file path
@@ -100,7 +100,7 @@ education:
       major: Computer Science and Engineering
       degree: Ph.D.
       description: |
-        I am majored in artificial intelligence, and my research mainly focuses on the utilization of hierarchical label relationships in image classification. My expected graduation date is May, 2024.
+        I am majored in artificial intelligence, and my research mainly focuses on the utilization of hierarchical label relationships in image classification. My expected graduation date is December 2024.
 
     - institution: Ohio State University
       link: https://www.osu.edu/
@@ -146,7 +146,7 @@ publication:
   items:
     - title: Inducing Neural Collapse to a Fixed Hierarchy-Aware Frame for Reducing Mistake Severity
       authors: Tong Liang, Jim Davis
-      conference: arXiv, 2023 (Under reviewing process).
+      conference: ICCV, 2023.
       link: https://arxiv.org/abs/2303.05689
 
     - title: Bottom-up Hierarchical Classification Using Confusion-based Logit Compression
