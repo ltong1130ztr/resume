@@ -1,8 +1,8 @@
 basic:
   name: Tong Liang                      # name
-  title: Ph.D. Candidate           # job title
+  title: Ph.D.                          # job title
   avatar:
-    show: true                       # show or hide avatar
+    show: true                          # show or hide avatar
     path: /assets/images/Profile-center.jpg # avatar file path
 
 contact:
@@ -19,7 +19,7 @@ contact:
   # drivinglicense:          # driving licence
 
   # contact
-  wechat:                  # username
+  wechat: ltong1130        # username
   whatsapp:                # 8611122223333     | https://wa.me/8611122223333
   telegram:                # username          | https://t.me/username
   messenger:               # username          | https://m.me/username
@@ -134,9 +134,16 @@ experience:
     - company: Ohio State University
       link: https://www.osu.edu/
       tags: 
-      date: 2018.05 - 2021.12
+      date: 2018.08 - 2021.12
       role: Graduate Research Associate
       location: Columbus
+
+    - company: The University of Texas at San Antonio
+      link: https://www.utsa.edu/
+      tags: 
+      date: 2017.09 - 2017.12
+      role: Graduate Research Associate
+      location: San Antonio
 
 publication:
   show: true
@@ -144,6 +151,12 @@ publication:
   title: Publications
   
   items:
+  
+    - title: Making Better Mistakes in CLIP-Based Zero-Shot Classification with Hierarchy-Aware Language Prompts
+      authors: Tong Liang, Jim Davis
+      conference: arXiv, 2025.
+      link: https://arxiv.org/abs/2503.02248
+      
     - title: Inducing Neural Collapse to a Fixed Hierarchy-Aware Frame for Reducing Mistake Severity
       authors: Tong Liang, Jim Davis
       conference: ICCV, 2023.
@@ -229,14 +242,15 @@ skill:
         - Machine Learning
         - Pattern Recognition
         - Artificial Intelligence
-        - Statistical Analysis
+        - Theory of Statistical Analysis
         - Probability and Random Variable
         - Data Mining
         - Database
-        - Data Structure
+        - Introduction to Algorithm
         - Advanced Operating System
         - Foundation of Programming Language
         - Signal Processing
+        - Digital Signal Processing
         - Medical Imaging
         - Image Processing
 
